@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mksyats.lab6"},{"l":"com.mksyats.lab6.collection"},{"l":"com.mksyats.lab6.sweets"}];updateSearchResults();

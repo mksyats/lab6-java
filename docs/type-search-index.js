@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mksyats.lab6.sweets","l":"Cake"},{"p":"com.mksyats.lab6.sweets","l":"Candy"},{"p":"com.mksyats.lab6.sweets","l":"Cookie"},{"p":"com.mksyats.lab6","l":"Main"},{"p":"com.mksyats.lab6.sweets","l":"Sweet"},{"p":"com.mksyats.lab6.collection","l":"SweetSet"}];updateSearchResults();
