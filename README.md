@@ -39,4 +39,4 @@ mvn clean compile exec:java
 ```
 
 ## Документація
-Згенерована JavaDoc документація модуля знаходиться за [цим посиланням](https://mksyats.github.io/lab6-java/docs).
+Згенерована JavaDoc документація модуля знаходиться за [цим посиланням](https://mksyats.github.io/lab6-java/).
